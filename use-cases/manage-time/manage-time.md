@@ -72,10 +72,10 @@ This use case interacts with the following entities from the system ERD:
 ### 🧭 Flowcharts
 
 #### 👤 Employee Flowchart:
-![Employee Submit Request](./SubmitRequest-emp.png)
+![Employee Submit Request](./SubmitRequest-emp.jpg)
 
 #### 👨‍💼 Manager Flowchart:
-![Manager Submit Request](./SubmitRequest-manager.png)
+![Manager Submit Request](./SubmitRequest-manager.jpg)
 
 ---
 
@@ -172,4 +172,4 @@ END FUNCTION
 
 The following diagram illustrates the sequence of interactions between the employee, system components, and manager during the **Manage Time** process:
 
-![Manage Time Sequence Diagram](./ManageTimeSequence.png)
+![Manage Time Sequence Diagram](./ManageTimeSequence.jpg)
